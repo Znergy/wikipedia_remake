@@ -1,3 +1,4 @@
-.list-float-right {
-  text-align: right;
+.center{
+  margin: 0 auto;
+  text-align: center;
 }
