@@ -2,3 +2,31 @@
   margin: 0 auto;
   text-align: center;
 }
+
+.panel-default > .panel-heading {
+  background-color: #CEF2E0;
+}
+
+.green-background {
+  background-color: #F5FFFA;
+}
+
+.blue-header .panel-default > .panel-heading {
+  background-color: #CEDFF2;
+}
+
+.blue-background {
+  background-color: #F5FAFF;
+}
+
+.purple-header .panel-default > .panel-heading {
+  background-color: #DDCEF2;
+}
+
+.purple-background {
+  background-color: #FAF5FF;
+}
+
+.grey-background {
+  background-color: #DDDDDD;
+}
