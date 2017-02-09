@@ -27,6 +27,10 @@
   background-color: #FAF5FF;
 }
 
-.grey-background {
+.well{
   background-color: #DDDDDD;
+}
+
+.push-page-down {
+  margin-top: 20px;
 }
