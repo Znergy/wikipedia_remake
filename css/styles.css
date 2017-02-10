@@ -28,11 +28,23 @@
 }
 
 .well{
-  background-color: #DDDDDD;
+  background-color: #eee;
 }
 
 .push-page-down {
-  margin-top: 20px;
+  padding-top: 20px;
+}
+
+.margin-right-zero {
+  margin-right: -15px;
+}
+
+.main-background {
+  background-color: #F6F6F6;
+}
+
+.secondary-background {
+  background-color: #fff;
 }
 
 .image-float-left {
@@ -44,4 +56,27 @@
   float: right;
   padding-left: 20px;
   padding-bottom: 2px;
+}
+
+.side-nav {
+  padding-top: 30px;
+  list-style-type: none;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  border-bottom: 0.5px solid gray;
+}
+
+.p-center-text {
+  padding-top: 75px;
+}
+
+.move-ul-down {
+  padding-top: 20px;
+}
+
+.next-side-nav {
+  list-style-type: none;
+  padding-left: 30px;
+  padding-bottom: 5px;
+  border-bottom: 0.5px solid gray;
 }
