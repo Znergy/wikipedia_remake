@@ -34,3 +34,14 @@
 .push-page-down {
   margin-top: 20px;
 }
+
+.image-float-left {
+  float: left;
+  padding-right: 20px;
+  padding-bottom: 2px;
+}
+.image-float-right {
+  float: right;
+  padding-left: 20px;
+  padding-bottom: 2px;
+}
